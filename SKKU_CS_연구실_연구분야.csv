@@ -1,0 +1,60 @@
+﻿학과·학부,탐색용 분야 분류,교수명,연구실·연구조직명,항목 유형,주요 연구 분야,홈페이지 URL,공식 출처 URL,학부연구생 모집 여부,비고
+소프트웨어학과,AI·데이터·자연어처리,고영중,자연어처리 연구실,연구실,자연어처리; 정보검색; 대화·질의응답,https://nlplab.skku.edu,https://cse.skku.edu/cse/research_area.do ; https://cse.skku.edu/cse/faculty.do,미확인,
+소프트웨어학과,AI·데이터·자연어처리,박진영,인간언어지능연구실 HLI,연구실,자연어처리; 기계학습,https://hli.skku.edu,https://cse.skku.edu/cse/research_area.do ; https://cse.skku.edu/cse/faculty.do,미확인,
+소프트웨어학과,AI·데이터·자연어처리,박호건,기계학습·데이터마이닝 연구실,연구실,그래프 학습; 데이터마이닝; 신뢰가능한 AI,https://learndatalab.github.io,https://cse.skku.edu/cse/research_area.do ; https://cse.skku.edu/cse/faculty.do,미확인,
+소프트웨어학과,AI·데이터·자연어처리,심규홍,음성 및 자연어 처리 연구실,연구실,음성·언어처리; 멀티모달 생성형 AI,,https://cse.skku.edu/cse/research_area.do ; https://cse.skku.edu/cse/faculty.do,미확인,
+소프트웨어학과,AI·데이터·자연어처리,이종욱,데이터지능및학습연구실 DIAL,연구실,추천시스템; 정보검색; 자연어처리,https://dial.skku.edu,https://cse.skku.edu/cse/research_area.do ; https://cse.skku.edu/cse/faculty.do,미확인,
+소프트웨어학과,AI·데이터·자연어처리,이지형,정보 및 지능시스템 연구실,연구실,딥러닝; 추천시스템; 의료영상,https://iislab.skku.edu,https://cse.skku.edu/cse/research_area.do ; https://cse.skku.edu/cse/faculty.do,미확인,
+소프트웨어학과,AI·데이터·자연어처리,이한국,효율적 기계학습 연구실 ELL,연구실,효율적 학습; 표현학습; 컴퓨터비전,https://ell.skku.edu,https://cse.skku.edu/cse/research_area.do ; https://cse.skku.edu/cse/faculty.do,미확인,
+소프트웨어학과,AI·데이터·자연어처리,김광수,인공지능융합연구실,연구실,컴퓨터비전; 도메인 적응; 설명가능한 AI,https://appliedai.skku.edu,https://cse.skku.edu/cse/research_area.do ; https://cse.skku.edu/cse/faculty.do,미확인,
+소프트웨어학과,AI·데이터·자연어처리,허재필,비주얼컴퓨팅연구실 VCL,연구실,영상 인식·생성; 멀티모달; 3D 비전,,https://cse.skku.edu/cse/research_area.do ; https://cse.skku.edu/cse/faculty.do,미확인,
+소프트웨어학과,AI·데이터·자연어처리,우홍욱,CSI Agent,연구실,강화학습; 지능형 에이전트,https://csiagentgroup.com,https://cse.skku.edu/cse/research_area.do ; https://cse.skku.edu/cse/faculty.do,미확인,연구실 목록에는 CSI연구실로 표기
+소프트웨어학과,AI·데이터·자연어처리,정윤경,지능적 서사 및 게임 연구실 ING,연구실,이야기 이해·생성; 게임 AI,https://inglab.github.io,https://cse.skku.edu/cse/research_area.do ; https://cse.skku.edu/cse/faculty.do,미확인,
+소프트웨어학과,AI·데이터·자연어처리,타메르,인포메이션 연구실,연구실,기계학습; 정보보안; 의료 AI,https://infolab-skku.github.io,https://cse.skku.edu/cse/research_area.do ; https://cse.skku.edu/cse/faculty.do,미확인,
+소프트웨어학과,AI·데이터·자연어처리,권원빈,별도 명칭 미표기,교수 연구분야,추천시스템; 정보검색; 에이전트 AI,https://dial.skku.edu,https://cse.skku.edu/cse/research_area.do ; https://cse.skku.edu/cse/faculty.do,미확인,교수 페이지에 DIAL 링크 제공; 독립 연구실 여부 추가 확인 필요
+소프트웨어학과,시스템·컴퓨터구조,김유성,컴퓨터 시스템 & 인텔리전스 연구실,연구실,지능형 시스템; 강화학습; 시스템 최적화,https://csi-skku.github.io,https://cse.skku.edu/cse/research_area.do ; https://cse.skku.edu/cse/faculty.do,미확인,
+소프트웨어학과,시스템·컴퓨터구조,남범석,대용량 데이터 처리 연구실 DICL,연구실,데이터 처리; 분산·병렬 시스템,https://dicl.skku.edu,https://cse.skku.edu/cse/research_area.do ; https://cse.skku.edu/cse/faculty.do,미확인,
+소프트웨어학과,시스템·컴퓨터구조,민동문,컴퓨터구조 연구실,연구실,프로세서·서버 구조; 성능 분석,https://archlab.skku.edu,https://cse.skku.edu/cse/research_area.do ; https://cse.skku.edu/cse/faculty.do,미확인,
+소프트웨어학과,시스템·컴퓨터구조,서의성,컴퓨터 시스템 연구실 CSL,연구실,운영체제; 클라우드; 가상화,https://csl.skku.edu,https://cse.skku.edu/cse/research_area.do ; https://cse.skku.edu/cse/faculty.do,미확인,
+소프트웨어학과,시스템·컴퓨터구조,신동군,지능형임베디드시스템연구실,연구실,임베디드; 온디바이스 AI; 시스템 소프트웨어,https://nyx.skku.ac.kr,https://cse.skku.edu/cse/research_area.do ; https://cse.skku.edu/cse/faculty.do,미확인,
+소프트웨어학과,시스템·컴퓨터구조,조형민,컴퓨팅플랫폼연구실 CPL,연구실,컴퓨터구조; AI 컴퓨팅; 하드웨어 신뢰성,https://cpl.skku.edu,https://cse.skku.edu/cse/research_area.do ; https://cse.skku.edu/cse/faculty.do,미확인,
+소프트웨어학과,시스템·컴퓨터구조,한환수,컴파일러 시스템 연구실,연구실,딥러닝 컴파일러; 데이터 처리 시스템,,https://cse.skku.edu/cse/research_area.do ; https://cse.skku.edu/cse/faculty.do,미확인,교수 소개 기준 명칭; 연구실 목록에는 컴퓨터시스템-인텔리전스 연구실로 표기
+소프트웨어학과,시스템·컴퓨터구조,염익준,컴퓨터네트워크 연구실,연구실,무선 네트워크; 콘텐츠 전달,http://comnet.skku.edu,https://cse.skku.edu/cse/research_area.do ; https://cse.skku.edu/cse/faculty.do ; https://gradschool.skku.edu/grad/prepare/laboratory_01.htm?college_id=COL002,미확인,연구실명은 대학원 연구실 안내 기준
+소프트웨어학과,시스템·컴퓨터구조,엄영익,분산컴퓨팅연구실,연구실,운영체제; 스토리지; 가상화,,https://cse.skku.edu/cse/research_area.do ; https://cse.skku.edu/cse/faculty.do ; https://cse.skku.edu/cse/faculty_honor.do,미확인,명예교수; 일반 전임교수와 구분 필요
+소프트웨어학과,보안·소프트웨어공학,구형준,인공지능을활용한보안연구실 SecAI,연구실,시스템·소프트웨어 보안; AI 활용 보안,https://secai.skku.edu,https://cse.skku.edu/cse/research_area.do ; https://cse.skku.edu/cse/faculty.do,미확인,
+소프트웨어학과,보안·소프트웨어공학,김형식,보안공학연구실,연구실,보안공학; 인증; 사용성 보안,https://seclab.skku.edu,https://cse.skku.edu/cse/research_area.do ; https://cse.skku.edu/cse/faculty.do,미확인,
+소프트웨어학과,보안·소프트웨어공학,우사이먼성일,데이터기반융합보안 연구실 DASH,연구실,AI 보안; 이상탐지; 프라이버시,https://dash-lab.github.io,https://cse.skku.edu/cse/research_area.do ; https://cse.skku.edu/cse/faculty.do,미확인,
+소프트웨어학과,보안·소프트웨어공학,이호준,시스템보안연구실 SSLab,연구실,운영체제 보안; 클라우드 보안,https://sslab.skku.edu,https://cse.skku.edu/cse/research_area.do ; https://cse.skku.edu/cse/faculty.do,미확인,
+소프트웨어학과,보안·소프트웨어공학,최형기,인터넷보안연구실 HIT,연구실,네트워크 보안; 디지털 포렌식,https://hit.skku.edu,https://cse.skku.edu/cse/research_area.do ; https://cse.skku.edu/cse/faculty.do,미확인,
+소프트웨어학과,보안·소프트웨어공학,황성재,소프트웨어 보안 연구실 SoftSec,연구실,소프트웨어 보안; 자동차 보안; 블록체인 보안,https://softsec.skku.edu,https://cse.skku.edu/cse/research_area.do ; https://cse.skku.edu/cse/faculty.do,미확인,
+소프트웨어학과,보안·소프트웨어공학,이은석,소프트웨어공학연구실,연구실,소프트웨어 테스트; 오류 탐지·수정,,https://cse.skku.edu/cse/research_area.do ; https://cse.skku.edu/cse/faculty.do,미확인,
+소프트웨어학과,보안·소프트웨어공학,차수영,소프트웨어 분석 연구실 SAL,연구실,프로그램 분석; 자동 테스팅,https://sal.skku.edu,https://cse.skku.edu/cse/research_area.do ; https://cse.skku.edu/cse/faculty.do,미확인,
+소프트웨어학과,HCI·그래픽스·네트워크 및 융합,이선재,차세대 컴퓨팅 연구실,연구실,AI 에이전트; 인간-AI 상호작용,,https://cse.skku.edu/cse/research_area.do ; https://cse.skku.edu/cse/faculty.do,미확인,
+소프트웨어학과,HCI·그래픽스·네트워크 및 융합,이성길,컴퓨터그래픽스연구실,연구실,그래픽스; GPU 렌더링; VR,https://cg.skku.edu,https://cse.skku.edu/cse/research_area.do ; https://cse.skku.edu/cse/faculty.do,미확인,
+소프트웨어학과,HCI·그래픽스·네트워크 및 융합,조재민,인터랙티브 데이터 컴퓨팅 연구실 IDC,연구실,HCI; 데이터 시각화,https://idclab.skku.edu,https://cse.skku.edu/cse/research_area.do ; https://cse.skku.edu/cse/faculty.do,미확인,
+소프트웨어학과,HCI·그래픽스·네트워크 및 융합,정재훈,사물인터넷연구실,연구실,IoT; 네트워크; 위치 추정,https://iotlab.skku.edu,https://cse.skku.edu/cse/research_area.do ; https://cse.skku.edu/cse/faculty.do,미확인,
+소프트웨어학과,HCI·그래픽스·네트워크 및 융합,추현승,수퍼인텔리전스연구실,연구실,의료 AI; 지능형 네트워크,https://monet.skku.edu,https://cse.skku.edu/cse/research_area.do ; https://cse.skku.edu/cse/faculty.do,미확인,
+컴퓨터교육과,,안성진,ICE Lab,연구실,컴퓨터교육; AI 윤리; 정보보안·포렌식,,https://comedu.skku.edu/comedu/faculty.do ; https://comedu.skku.edu/comedu/labintro.do,미확인,
+컴퓨터교육과,,김미량,ICT 융합교육 연구실,연구실,디지털 학습환경; 이러닝; 소프트웨어교육,,https://comedu.skku.edu/comedu/faculty.do ; https://comedu.skku.edu/comedu/labintro.do,미확인,
+컴퓨터교육과,,김재현,성균에듀테크연구소 SETRI,연구소,에듀테크; 소프트웨어·AI 융합교육,https://setri.skku.edu,https://comedu.skku.edu/comedu/faculty.do ; https://comedu.skku.edu/comedu/labintro.do,미확인,개별 연구실이 아닌 연구소
+컴퓨터교육과,,박천수,지능형비전,교수 연구분야,컴퓨터비전; AI 소프트웨어; 보행자 속성 인식,,https://comedu.skku.edu/comedu/faculty.do ; https://comedu.skku.edu/comedu/labintro.do,미확인,교수 소개의 표기; 연결된 AIPro는 창업기업이므로 연구실과 구분
+컴퓨터교육과,,류은석,지능형멀티미디어컴퓨팅 연구실 IMCLab,연구실,멀티미디어 시스템; VR; 3D 표현 압축,https://imclab.skku.edu,https://comedu.skku.edu/comedu/faculty.do ; https://comedu.skku.edu/comedu/labintro.do,미확인,
+컴퓨터교육과,,이장원,I2SLab,연구실,컴퓨터비전; 인간-로봇 상호작용,https://i2slab.skku.edu,https://comedu.skku.edu/comedu/faculty.do ; https://comedu.skku.edu/comedu/labintro.do,미확인,
+컴퓨터교육과,,최윤석,Data & Language Intelligence Lab,연구실,자연어처리; 멀티모달; 생성형 AI; 추천,https://dli.skku.edu,https://comedu.skku.edu/comedu/faculty.do ; https://comedu.skku.edu/comedu/labintro.do,미확인,
+컴퓨터교육과,,민무홍,소프트웨어연구실 SWLAB,연구실,정보보안; AI; 블록체인; 딥페이크,https://swlab.skku.edu,https://comedu.skku.edu/comedu/faculty.do ; https://comedu.skku.edu/comedu/labintro.do,미확인,
+컴퓨터교육과,,한옥영,별도 연구실명 미표기,교수 연구분야,소프트웨어교육; AI 교육,,https://comedu.skku.edu/comedu/faculty.do ; https://comedu.skku.edu/comedu/labintro.do,미확인,공식 교수 소개의 연구 분야 기준
+글로벌융합학부,,김장현,데이터사이언스사회분석연구실 DSSAL,연구실,사회·의미 네트워크; 데이터 분석; 응용 AI,https://dssal.net,https://sco.skku.edu/sco/professor/professor.do,미확인,
+글로벌융합학부,,김재광,main Lab,연구실,추천·예측; 그래프 학습; 의료 AI,https://mainlab.skku.edu,https://sco.skku.edu/sco/professor/professor.do ; https://mainlab.skku.edu,미확인,
+글로벌융합학부,,무하마드칸,VIS2KNOW Lab,연구실,컴퓨터비전; 영상 분석; 화재·연기 인식,https://khan-muhammad.github.io,https://sco.skku.edu/sco/professor/professor.do ; https://xai.skku.edu/sw/lab.do,미확인,
+글로벌융합학부,,박은일,Data eXperience Laboratory,연구실,데이터사이언스; 사용자 경험; 산업 AI,https://dsl.skku.edu,https://sco.skku.edu/sco/professor/professor.do,미확인,
+글로벌융합학부,,송하연,Human-AI Interaction Lab,연구실,인간-AI 상호작용; 미디어의 심리적 영향,https://hailab.skku.edu,https://sco.skku.edu/sco/professor/professor.do,미확인,
+글로벌융합학부,,오하영,LAMDA Lab,연구실,멀티모달 AI; 언어모델; 디지털 치료,https://sites.google.com/site/hyoh79,https://sco.skku.edu/sco/professor/professor.do ; https://sites.google.com/site/hyoh79,미확인,
+글로벌융합학부,,이경호,MotionAI Lab,연구실,동작 생성·분석; 생성형 AI; 캐릭터 애니메이션,,https://sco.skku.edu/sco/professor/professor.do,미확인,
+글로벌융합학부,,이대호,디허브랩 DEHUB,연구실,플랫폼 사용자 분석; AI 서비스 전략,https://www.dehublab.com,https://sco.skku.edu/sco/professor/professor.do,미확인,
+글로벌융합학부,,이용정,별도 연구실명 미표기,교수 연구분야,디지털 헬스; 의료정보; 건강정보 이용,,https://sco.skku.edu/sco/professor/professor.do,미확인,공식 교수 소개의 연구 분야 기준
+글로벌융합학부,,이주현,별도 연구실명 미표기,교수 연구분야,콘텐츠·플랫폼 비즈니스; 데이터 기반 마케팅,,https://sco.skku.edu/sco/professor/professor.do,미확인,공식 교수 소개의 연구 분야 기준
+글로벌융합학부,,이창준,AXIS Lab,연구실,계산사회과학; 기술경영; 미디어 데이터,https://www.axislabskku.com,https://sco.skku.edu/sco/professor/professor.do,미확인,
+글로벌융합학부,,파르만알리,Data Mining and AI Lab,연구실,자연어처리; 설명가능한 AI; 의료정보,,https://sco.skku.edu/sco/professor/professor.do,미확인,
+글로벌융합학부,,한진영,DSAIL,연구실,데이터사이언스; 기계학습; 네트워크 분석,https://dsail.skku.edu,https://sco.skku.edu/sco/professor/professor.do,미확인,
+글로벌융합학부,,홍성은,인공지능 및 미디어 랩 AIM,연구실,멀티모달 학습; 도메인 적응; 로봇 비전,https://aim.skku.edu,https://sco.skku.edu/sco/professor/professor.do,미확인,
+글로벌융합학부,,홍주화,AAA Lab,연구실,인간-AI 상호작용; 사회적 AI; AI 윤리,,https://sco.skku.edu/sco/professor/professor.do,미확인,
